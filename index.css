@@ -1,0 +1,41 @@
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 26px;
+}
+
+.slide-full-img {
+  background-color: none;
+  background-size: cover;
+}
+
+.slide-dark {
+  background-color: #0e0e0e;
+}
+
+.box {
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 10px;
+  padding: 20px;
+  color: black;
+}
+
+.sm-margin-top {
+  margin-top: 24px;
+}
+
+.lg-margin-top {
+  margin-top: 200px;
+}
+
+.xl-margin-top {
+  margin-top: 390px;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: 800;
+}
+h2 {
+  font-size: 40px;
+  font-weight: 600;
+}
